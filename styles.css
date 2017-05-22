@@ -3,6 +3,7 @@ header {
     background-image: url("img/header-bg.jpg");
     background-size: cover;
     color: #fff;
+}
 
 body {
     font-family: Helvetica, Arial, sans-serif;
